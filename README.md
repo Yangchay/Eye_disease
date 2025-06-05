@@ -15,4 +15,4 @@ this tool offers a scalable and cost-effective solution for preventing avoidable
 
 
 **Mrs. Yangchen Dema**  
-<img src="![alt text](eyedisease_detector/disease_detector/static/images/developer.jpg)" width="250" height="250" />
+<img src="C:\Users\DELL\OneDrive\Desktop\personal\personal_dl\eyedisease_detector\disease_detector\static\images\developer.jpg" width="250" height="250" />
