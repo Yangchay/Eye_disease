@@ -33,3 +33,9 @@ Wait a few seconds for the results to be displayed.
 
 <img src="https://github.com/user-attachments/assets/a39be9de-b61c-42dc-abe1-5b23a21d8cb1" width="400" />
 
+This section displays the result of the AI-based diagnosis from the uploaded eye scan. Once an image is analyzed, the system predicts the most likely eye condition along with the associated confidence score.
+In the example above:
+The predicted diagnosis is Cataract, with a confidence of 88.26%.
+A detailed confidence breakdown is provided for other possible conditions such as Diabetic Retinopathy, Glaucoma, and Normal to ensure transparency in prediction.
+Each diagnosis includes a brief explanation to help users understand the medical context. This helps in increasing awareness and encourages users to seek professional medical consultation if the result indicates a condition.
+
