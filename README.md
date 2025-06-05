@@ -19,8 +19,9 @@ solution for preventing avoidable vision loss.
 <img src="https://github.com/user-attachments/assets/ff4bbffa-3126-43d7-a27b-8c3a6ceaea0c" width="300"/>
 
 ### Web Page
-![Screenshot 2025-06-05 151256](https://github.com/user-attachments/assets/6b276e6d-46b8-4209-9698-b947d5a2cf76)
+<img src="https://github.com/user-attachments/assets/6b276e6d-46b8-4209-9698-b947d5a2cf76" width="400"/>
 
 ### Result 
 
-![Screenshot 2025-06-05 151240](https://github.com/user-attachments/assets/a39be9de-b61c-42dc-abe1-5b23a21d8cb1)
+<img src="https://github.com/user-attachments/assets/a39be9de-b61c-42dc-abe1-5b23a21d8cb1" width="400" />
+
