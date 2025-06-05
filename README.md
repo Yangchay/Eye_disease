@@ -16,4 +16,4 @@ this tool offers a scalable and cost-effective solution for preventing avoidable
 
 **Mrs. Yangchen Dema**  
 
-![developer](https://github.com/user-attachments/assets/ff4bbffa-3126-43d7-a27b-8c3a6ceaea0c)
+<img src="https://github.com/user-attachments/assets/ff4bbffa-3126-43d7-a27b-8c3a6ceaea0c" width="300"/>
