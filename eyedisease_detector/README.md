@@ -9,4 +9,4 @@ The Eye Disease Detector is an AI-powered system that uses deep learning to anal
 
 
 **Mrs. Yangchen Dema**  
-<img src="static\images\developer.jpg" width="250" height="250" />
+<img src="C:\Users\DELL\OneDrive\Desktop\personal\personal_dl\eyedisease_detector\disease_detector\static\images\developer.jpg" width="250" height="250" />
